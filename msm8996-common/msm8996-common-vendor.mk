@@ -691,5 +691,4 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
-    WfdCommon \
-    wcg_mac_tool
+    WfdCommon
